@@ -1,1 +1,0 @@
-#SMA/EMA Helper funcs
